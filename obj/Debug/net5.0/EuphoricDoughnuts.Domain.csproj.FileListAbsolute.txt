@@ -1,0 +1,11 @@
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\bin\Debug\net5.0\EuphoricDoughnuts.Domain.deps.json
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\bin\Debug\net5.0\EuphoricDoughnuts.Domain.dll
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\bin\Debug\net5.0\ref\EuphoricDoughnuts.Domain.dll
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\bin\Debug\net5.0\EuphoricDoughnuts.Domain.pdb
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\obj\Debug\net5.0\EuphoricDoughnuts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\obj\Debug\net5.0\EuphoricDoughnuts.Domain.AssemblyInfoInputs.cache
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\obj\Debug\net5.0\EuphoricDoughnuts.Domain.AssemblyInfo.cs
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\obj\Debug\net5.0\EuphoricDoughnuts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\obj\Debug\net5.0\EuphoricDoughnuts.Domain.dll
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\obj\Debug\net5.0\ref\EuphoricDoughnuts.Domain.dll
+C:\Users\Nikko\source\repos\EuphoricDoughnuts.Domain\obj\Debug\net5.0\EuphoricDoughnuts.Domain.pdb
